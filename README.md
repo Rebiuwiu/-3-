@@ -1,8 +1,5 @@
-# -3-
-
 #include<stdio.h>
-int main()
-{
+int main(){
 	int n;
 	int s;
 	scanf("%d",&n);
